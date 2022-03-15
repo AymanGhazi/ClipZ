@@ -1,0 +1,16 @@
+{
+ "headers":[
+    {
+"source":"/(.*)",
+"headers":[
+    {
+        "key":"Cross-Origin-Operner-Policy",
+        "value":"same-origin"
+    },{
+        "key":"Cross-Origin-Emmbedder-Policy",
+        "value":"require-corp"
+    }
+    ]
+}
+]
+}
